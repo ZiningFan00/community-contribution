@@ -1,0 +1,15 @@
+---
+title: "Importing Web Data"
+author: "Zining Fan"
+date: "10/3/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro to CSS and CSS selector
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. Below When we want to import data from web, there is a natural choice for us---CSS selector.
+
