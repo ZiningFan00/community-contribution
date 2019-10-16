@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Intro to CSS and CSS selector
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. Below When we want to import data from web, there is a natural choice for us---CSS selector.
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. When we want to import data from web, there is a natural choice for us---CSS selector. If you want to know more about CSS, you can take a look at here.
 
